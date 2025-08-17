@@ -1,0 +1,3 @@
+bot/.env
+bot/__pycache__
+event-bot-logs.log
